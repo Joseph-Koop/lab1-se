@@ -1,0 +1,1 @@
+This is an empty project used to set up course environment for Software Engineering (Lab 1).
